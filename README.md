@@ -20,13 +20,19 @@ The project is organized into several files, each serving a specific purpose in 
 - `8-binary_tree_postorder.c`: Function to traverse a binary tree using post-order traversal.
 - `9-binary_tree_height.c`: Function to measure the height of a binary tree.
 - `10-binary_tree_depth.c`: Function to measure the depth of a node in a binary tree.
+- `11-binary_tree_size.c`: Function to measure the size of a binary tree.
+- `12-binary_tree_leaves.c`: Function to count the leaves in a binary tree.
+- `13-binary_tree_nodes.c`: Function to count the nodes with at least 1 child in a binary tree.
+- `14-binary_tree_balance.c`: Function to measure the balance factor of a binary tree.
+- `15-binary_tree_is_full.c`: Function to check if a binary tree is full.
+- `16-binary_tree_is_perfect.c`: Function to check if a binary tree is perfect.
+- `17-binary_tree_sibling.c`: Function to find the sibling of a node.
+- `18-binary_tree_uncle.c`: Function to find the uncle of a node.
 - `binary_tree_print.c`: Helper functions for printing binary trees.
-- others to be added soon..
 
 ### Data Structures
 
 The project defines several data structures for different types of binary trees, including basic binary trees, binary search trees (BST), AVL trees, and Max Binary Heaps.
-
 
 ### Testing
 
@@ -34,4 +40,4 @@ The `main.c` files provided in the examples serve as a testing ground for the im
 
 ## Conclusion
 
-This Binary Tree project provides a foundation for my understanding and working with binary trees.
+This Binary Tree project provides a foundation for understanding and working with binary trees.
